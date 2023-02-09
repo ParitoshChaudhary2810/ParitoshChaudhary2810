@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParitoshChaudhary2810
 - 👀 I’m interested in all things data processing
-- 🌱 I’m currently learning automation testing
+- 🌱 I’m currently learning automation testing and data validation patterns
 - 💞️ I’m looking to collaborate on data validation frameworks
 - 📫 How to reach me - paritosh.chaudhary@infoworks.io
 
